@@ -1,1 +1,1 @@
-# Solutions to tasks on 0x16. API advanced
+Project 0x16. API advanced
