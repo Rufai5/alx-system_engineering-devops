@@ -1,10 +1,5 @@
-#  API advanced
+# `API advanced`
 
-## General
-
--    How to read API documentation to find the endpoints you’re looking for
--    How to use an API with pagination
--    How to parse JSON results from an API
--    How to make a recursive API call
--    How to sort a dictionary by value
+![](https://www.ruudharreman.nl/wp-content/uploads/2022/11/image-15.png)
+#
 
